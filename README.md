@@ -1,6 +1,6 @@
-#Linkedin Profile Scraper 0.0.1
+# Linkedin Profile Scraper 0.0.1
 
-###*This project is currently under construction*
+### *This project is currently under construction*
 
 ---
 
@@ -10,7 +10,7 @@ That way you can keep your personal site updated by pulling data from your linke
  
 
 ---
-#####TODO: 
+##### TODO: 
 1. confirm all data is being pulled
 2. clean & save data to csv
 3. code clean up
@@ -18,7 +18,7 @@ That way you can keep your personal site updated by pulling data from your linke
 
 
 ---
-######Nice to have:
+###### Nice to have:
 1. Create a UI to run script
 2. Create a UI screen that allows you to pick and chose the data you want to use to update your resume/site
 3. Find the best way to generate resume updates on the fly   
